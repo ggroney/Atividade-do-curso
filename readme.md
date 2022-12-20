@@ -1,6 +1,6 @@
 Problema 
 
-Elabore um algoritmo para calcular o salário líquido de uma pessoa.
+Elabore um algoritmo para calcular o salário líquido de 05 pessoas.
 Solicite ao usúario que digite o seu nome e o valor do seu salário bruto.
 Peça também para o usuário digitar a quantidade de dependentes.
 Calcule a renda familiar per capta.
@@ -11,5 +11,5 @@ Caso a renda para cada membro da família seja maior ou igual a R$ 500,00 o impo
 * salário bruto (a partir de 2.826,66): 15%
 Ao final, mostre na tela o valor do salário líquido.
 
-Versão: 08 - Comandos de Decisão Aninhados
+Versão: 09 - Comandos de Repetição
 
