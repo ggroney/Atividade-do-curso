@@ -38,14 +38,14 @@ for (var i = 1; i <= 5; i++) {
 
   salarios.push(salario_liquido);
   soma = soma + salario_liquido;
-  
+
 }
 
 media = soma / 5;
 
 for (var i = 0; i <= 4; i++) {
-  if (salarios[i] < media){
-    qtd_menores = qtd_menores +1;
+  if (salarios[i] < media) {
+    qtd_menores = qtd_menores + 1;
   }
 }
 
